@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color:white
+}
+
+h1:hover{
+    color:black;
+}
+
+header {
+    /* border: 1px, black; */
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+}

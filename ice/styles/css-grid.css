@@ -1,0 +1,10 @@
+article{
+    background-color: gold;
+    text-align: center;
+}
+
+section{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 100px 100px 100px;
+}
